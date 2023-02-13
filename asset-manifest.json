@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tfjs-mobilenetv3/static/css/main.2628a977.css",
-    "main.js": "/tfjs-mobilenetv3/static/js/main.1755797e.js",
-    "index.html": "/tfjs-mobilenetv3/index.html",
-    "main.2628a977.css.map": "/tfjs-mobilenetv3/static/css/main.2628a977.css.map",
-    "main.1755797e.js.map": "/tfjs-mobilenetv3/static/js/main.1755797e.js.map"
+    "main.css": "/id-demo/static/css/main.2628a977.css",
+    "main.js": "/id-demo/static/js/main.1755797e.js",
+    "index.html": "/id-demo/index.html",
+    "main.2628a977.css.map": "/id-demo/static/css/main.2628a977.css.map",
+    "main.1755797e.js.map": "/id-demo/static/js/main.1755797e.js.map"
   },
   "entrypoints": [
     "static/css/main.2628a977.css",
